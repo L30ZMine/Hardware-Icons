@@ -1,5 +1,6 @@
 # Hardware-Icons & Will add more soon
 Some Remakes of Windows Icons
++ HDD (Windows Remake)
 + SSD (aka. HDD dark mode)
 
 
