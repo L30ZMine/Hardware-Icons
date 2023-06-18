@@ -5,9 +5,13 @@ Some Remakes of Windows Icons
 
 ## HDD Remake
 ![hdd](https://github.com/L30ZMine/Hardware-Icons/blob/main/HDD/HDD_256.png)
+![hdd](https://github.com/L30ZMine/Hardware-Icons/blob/main/HDD/HDD_128.png)
+![hdd](https://github.com/L30ZMine/Hardware-Icons/blob/main/HDD/HDD_64.png)
 
 ## SSD Remake
 ![SSD](https://github.com/L30ZMine/Hardware-Icons/blob/main/SSD/SSD_256.png)
+![SSD](https://github.com/L30ZMine/Hardware-Icons/blob/main/SSD/SSD_128.png)
+![SSD](https://github.com/L30ZMine/Hardware-Icons/blob/main/SSD/SSD_64.png)
 
 ## Warning Label used on the Disks
 ![warning label](https://github.com/L30ZMine/Hardware-Icons/blob/main/Blender%20Labels/Warning%20Labels.png)
