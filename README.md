@@ -17,4 +17,6 @@ Some Remakes of Windows Icons
 ![SSD](https://github.com/L30ZMine/Hardware-Icons/blob/main/SSD/SSD_32.png)
 
 ## Warning Label used on the Disks
+
+<img width=128px heigh=128px src=https://github.com/L30ZMine/Hardware-Icons/blob/main/Blender%20Labels/Warning%20Labels.png></img>
 ![warning label](https://github.com/L30ZMine/Hardware-Icons/blob/main/Blender%20Labels/Warning%20Labels.png)
