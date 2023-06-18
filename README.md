@@ -1,4 +1,6 @@
 # Hardware-Icons
 Some Remakes of Windows Icons
 
-![alt text](https://github.com/l30zmine/hardware-icons/blob/main/hdd/hdd_512.png?raw=true)
+
+# HDD Reamke
+![hdd](https://github.com/L30ZMine/Hardware-Icons/blob/main/HDD/HDD_512.png&raw=true)
