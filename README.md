@@ -18,5 +18,8 @@ Some Remakes of Windows Icons
 
 ## Warning Label used on the Disks
 
+<img width=512px heigh=512px src=https://github.com/L30ZMine/Hardware-Icons/blob/main/Blender%20Labels/Warning%20Labels.png></img>
 <img width=256px heigh=256px src=https://github.com/L30ZMine/Hardware-Icons/blob/main/Blender%20Labels/Warning%20Labels.png></img>
+<img width=128px heigh=128px src=https://github.com/L30ZMine/Hardware-Icons/blob/main/Blender%20Labels/Warning%20Labels.png></img>
+<img width=64px heigh=64px src=https://github.com/L30ZMine/Hardware-Icons/blob/main/Blender%20Labels/Warning%20Labels.png></img>
 
